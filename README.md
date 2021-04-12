@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manelcamacho
 - 👀 I’m interested in: complex/simple systems, natural processes, energy and related subjects.
-- 🌱 I’m currently learning: broad maths and physics on the ocean/atmopshere, expanding on fluid mechanics. 
+- 🌱 I’m currently learning: broad maths and physics on the ocean/atmopshere, expanding on fluid mechanics and wave modelling. 
 - 💞️ I’m looking to collaborate on: people working on oceanography, ocean science, atmosphere, energy, marine energy.
 - 📫 How to reach me: manel.rivera-camacho(at)gmail.com
 
